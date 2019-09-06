@@ -8,6 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "transfers": [ 
+    {"Id": 0, "ClienteId": 10, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"},
+    {"Id": 1, "ClienteId": 11, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"},
+    {"Id": 2, "ClienteId": 12, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"},
+    {"Id": 3, "ClienteId": 13, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"}
+    ],
   "profile": {
     "name": "typicode"
   }
