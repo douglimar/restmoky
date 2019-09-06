@@ -8,6 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "teste": [ 
+    {"id": 0, "clienteId": 10, "valor": 24},
+    {"id": 1, "ClienteId": 11, "Valor": 25},
+    {"id": 2, "ClienteId": 12, "Valor": 26},
+    {"id": 3, "ClienteId": 13, "Valor": 27}
+    ],
   "transfers": [ 
     {"id": 0, "ClienteId": 10, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"},
     {"id": 1, "ClienteId": 11, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"},
